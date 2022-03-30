@@ -1,2 +1,2 @@
 This is some text.
-Okay this is weird.
+I can confirm this is some text.
